@@ -1,1 +1,1 @@
-Nunit-Summator
+Nunit-Summator !
